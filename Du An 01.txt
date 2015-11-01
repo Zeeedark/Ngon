@@ -1,3 +1,8 @@
 ﻿Dư án Ngon :v
 Thành Viên:
 Trần Trọng Đức (Trưởng nhóm)
+
+////
+Cấu hình comment
+git config --galobal user.name "Zeedark"
+git config --galobal user.email "shyanime92@gmail.com"
